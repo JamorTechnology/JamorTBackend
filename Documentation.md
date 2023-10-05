@@ -66,7 +66,7 @@ To begin using the User API, follow these steps:
 ### Create a User
 
     HTTP Method: POST
-    Endpoint: https://jamort-backend.onrender.com
+    Endpoint: https://jamort-backend.onrender.com/users
     Description: Create a new person with a name property.
     Request Body:
 
